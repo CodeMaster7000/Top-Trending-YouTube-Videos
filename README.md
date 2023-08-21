@@ -6,7 +6,7 @@ A JavaScript program, built using the YouTube Data API, to fetch the top 15 vide
 
 ## Requirement
 
-To run the program, you will need to obtain an API key from [YouTube Data API](https://developers.google.com/youtube/v3). Enable the API and generate a key.
+To run the program, you will need to obtain an API key from [here](https://developers.google.com/youtube/v3). Enable the API and generate a key.
 
 ## Implementation
 
