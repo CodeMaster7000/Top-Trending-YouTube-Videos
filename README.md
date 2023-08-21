@@ -10,4 +10,4 @@ To run the program, you will need to obtain an API key from [here](https://devel
 
 ## Implementation
 
-Simply navigate to `src`, then run `main.js` by your compiler. Enjoy!
+Simply navigate to `src`, then run `main.js` in your compiler. It's time for you to put it to the test!
