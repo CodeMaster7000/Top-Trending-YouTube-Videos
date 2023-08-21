@@ -10,4 +10,4 @@ To run the program, you will need to obtain an API key from [YouTube Data API](h
 
 ## Implementation
 
-Simply navigate to `src`, then run `main.js` by your compiler.
+Simply navigate to `src`, then run `main.js` by your compiler. Enjoy!
